@@ -1,0 +1,31 @@
+-----------------
+Day 1:
+Date: 30th Dec 24
+-----------------
+Name: Abhishek
+Exp:14+ years exp
+Education: B.tech(Mech)
+Company: Capgemini
+Designation: Senior Software Engineer
+----------------------------
+
+Introduction to Programming
+
+two types of companies:
+1. product - C,CPP & DSA *****
+2. service
+
+Why C?
+How, When, Where
+
+1. The OS X kernel is written mostly in C. Every program and driver in a Mac runs on a C-powered kernel. 
+
+2. Microsoft Windows is primarily written in C and C++
+
+3. The Python interpreter, called CPython, is written in the C programming language. Python borrows some syntax from C, but it uses whitespace to organize code, which makes it easier to read. 
+
+4. "Most of the Software in Tesla cars is C or C++,"
+
+5. "No programming language has come close to C or C++ when it comes to efficiency.
+
+6. If you want to work for companies dealing with hardware such as NASA, SpaceX, Intel, Tesla or Nvidia, forget about the Javascript framework, and aim for C!
