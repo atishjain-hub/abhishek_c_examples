@@ -42,6 +42,122 @@ Why C?
 Day 2:
 Date: 1st Jan 2025
 -----------------
+What is C?
+History of C
+Features of C Languages
+
 BASIC - Beginners All Purpose Symbolic Instruction code
 COBOL - Common Business Oriented Language
 Fortran - Formula Translation
+
+-----------------
+Day 3:
+Date: 2nd Jan 2025
+-----------------
+Structure of a C Program
+
+Comment Lines
+Single Line - // This is a comment
+
+Multiple -
+/*
+this
+is 
+a 
+comment */
+
+# include <stdio.h>
+
+# - pre processor directive
+
+<global declaration>
+
+main() //entry point/engine
+{
+  <local declaration>
+  //code
+  <variable declarations>
+  <statements>
+
+}
+
+//user defined functions
+f1()
+{
+}
+
+f2()
+{
+}
+
+There are 29/31 header files(contains functions)
+There are 32 keywords
+int,char,float,double,if,else,do,while,for etc....
+
+Algorithm - the step by step process to solve a problem.
+Algorithms are expressed in two ways:
+
+1. Pseudocodes 
+2. Flowcharts
+
+
+Datatype
+
+a=10
+b=20
+c=a+b
+print c - 30
+
+a="raj"
+b="jain"
+c=a+b
+print c - raj jain
+
+
+int a=10
+there 4 basic datatypes
+
+char - 1 byte - %c (format specifier)
+int - 4 bytes - %d
+float - 4 bytes - %f
+double - 8 bytes - %lf
+
+-----------------
+Day 4:
+Date: 7th Jan 2025
+-----------------
+printf() - output function
+
+ex:
+printf("Hi Welcome");
+
+scanf() - input function
+int age;
+scanf("%d",&age);
+
+
+Compiler - Special Software which translates the source code into machine code
+Editor 
+
+IDE - Integreated Development Enviormnment
+
+-----------------
+Day 5:
+Date: 8th Jan 2025
+-----------------
+
+Compile - .o
+Make - .exe
+Build = Compile + Make 
+
+
+
+------------
+Assignments:
+------------
+1. Write a Program to Read Marks of 3 Subjects and display total 
+2. Write a Program to Calculate bill amount from the inputted Rate & Quantity.
+   Note: Rate Should be in Decimals
+
+   Qty - 5
+   Rate - 1.50 (float - %f)
