@@ -161,3 +161,10 @@ Assignments:
 
    Qty - 5
    Rate - 1.50 (float - %f)
+
+
+-----------------
+Day 6:
+Date: 23rd Jan 2025
+-----------------
+Programming Examples
