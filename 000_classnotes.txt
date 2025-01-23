@@ -152,19 +152,21 @@ Build = Compile + Make
 
 
 
-------------
-Assignments:
-------------
-1. Write a Program to Read Marks of 3 Subjects and display total 
-2. Write a Program to Calculate bill amount from the inputted Rate & Quantity.
-   Note: Rate Should be in Decimals
-
-   Qty - 5
-   Rate - 1.50 (float - %f)
-
-
 -----------------
 Day 6:
 Date: 23rd Jan 2025
 -----------------
 Programming Examples
+
+------------
+Assignments:
+------------
+1. Write a Program to Read the Marks of 3 Subjects and display the total. 
+2. Write a Program to Calculate the bill amount from the inputted Rate & Quantity.
+   Note: Rate Should be in Decimals
+
+   Qty - 5
+   Rate - 1.50 (float - %f)
+3. Write a Program to swap the values of two variables A & B without using 3rd variable
+4. Write a Program to read the Full Name, Gender, and Age of a Person and display the same.
+
