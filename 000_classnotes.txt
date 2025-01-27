@@ -164,6 +164,12 @@ Date: 24th Jan 2025
 -----------------
 Programming Examples
 
+-----------------
+Day 8:
+Date: 27th Jan 2025
+-----------------
+ASCII Codes
+
 ------------
 Assignments:
 ------------
@@ -176,4 +182,5 @@ Assignments:
 3. Write a Program to swap the values of two variables A & B without using 3rd variable
 4. Write a Program to read the Full Name, Gender, and Age of a Person and display the same.
 5. swap values of 2 variables a and b without using + and - or extra variable
+6. Write a Program to convert uppercase alphabet to lowercase alphabet
 
