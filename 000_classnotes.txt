@@ -170,6 +170,13 @@ Date: 27th Jan 2025
 -----------------
 ASCII Codes
 
+-----------------
+Day 9:
+Date: 28th Jan 2025
+-----------------
+Datatypes & Modifiers
+
+int x;
 ------------
 Assignments:
 ------------
