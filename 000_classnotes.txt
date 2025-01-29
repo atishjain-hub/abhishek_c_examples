@@ -177,6 +177,14 @@ Date: 28th Jan 2025
 Datatypes & Modifiers
 
 int x;
+
+Day 10:
+Date: 29th Jan 2025
+-----------------
+const keyword and escape sequence characters
+
+Write a Program to calculate area of circle
+
 ------------
 Assignments:
 ------------
@@ -189,5 +197,10 @@ Assignments:
 3. Write a Program to swap the values of two variables A & B without using 3rd variable
 4. Write a Program to read the Full Name, Gender, and Age of a Person and display the same.
 5. swap values of 2 variables a and b without using + and - or extra variable
-6. Write a Program to convert uppercase alphabet to lowercase alphabet
+6. Write a Program to convert the uppercase alphabet to the lowercase alphabet
+7. Write a program to convert inputted rupees into paise.
+8. Write a program to calculate the electricity bill from the inputted last month and the Present month reading.
+   Ex: Rate per unit is Rs.3.75/-
+
+
 
