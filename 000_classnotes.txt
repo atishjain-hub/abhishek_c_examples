@@ -185,6 +185,15 @@ const keyword and escape sequence characters
 
 Write a Program to calculate area of circle
 
+Day 11:
+Date: 30th Jan 2025
+-----------------
+control structures
+There are 3 types of control structures
+1. sequence
+2. selection
+3. loops/repetitions/iterations
+
 ------------
 Assignments:
 ------------
@@ -201,6 +210,37 @@ Assignments:
 7. Write a program to convert inputted rupees into paise.
 8. Write a program to calculate the electricity bill from the inputted last month and the Present month reading.
    Ex: Rate per unit is Rs.3.75/-
+
+9.Write a program to read a no and check whether it is even or odd
+10.Write a program to read 2 nos and check which is the biggest one
+11.Write a Program to Calculate Discount and Final Amount from the Data Given:-
+Sale >=25,000  discount is 10%, otherwise discount is 5%
+ex:
+  sales,dis,finalamt
+
+input: sales
+if(sales>=25000)
+  dis=sales*10/100;
+else
+  dis=sales*5/100;
+
+finalamt=sales-dis
+
+12. Write a Program to Accept Previous month Reading and Present month reading from the user, Calculate Bill Amount based upon the Data Given Below.
+units consumed     rate
+above 500           4.80
+below 500           3.50
+
+ex:
+pmr,lmr,UC,billamt
+input lmr,pmr
+uc=pmr-lmr
+if(uc>500)
+billamt=uc*5.8;
+else
+billamt=uc*3.5;
+
+
 
 
 
