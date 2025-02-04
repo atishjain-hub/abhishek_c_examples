@@ -194,6 +194,16 @@ There are 3 types of control structures
 2. selection
 3. loops/repetitions/iterations
 
+Day 12:
+Date: 31th Jan 2025
+-----------------
+if else programming
+
+Day 13:
+Date: 4th Feb 2025
+-----------------
+multiple if statements
+
 ------------
 Assignments:
 ------------
@@ -239,6 +249,32 @@ if(uc>500)
 billamt=uc*5.8;
 else
 billamt=uc*3.5;
+
+13. Write a Program to Check whether the inputted year is leap year not.
+14. Write Program to Read Name and age of two persons and Display Elder Person Name.
+name1, age1
+name2, age2
+
+if(age1>age2)
+....
+
+15. Write a Program to check whether the inputted no is Positive or Negative or Neutral. 
+16. Write a Program to accept marks of Any 3 subjects of your Choice and perform the following:    Calculate Total and Average and display the Grade based upon the data given below. 
+Avg      Grade
+>=90      A+
+80 - 90   A
+70 - 80   B+
+60 - 70   B
+50 - 60   C
+Below 50  No Grade
+17. Discount and Amount Example
+18. Bonus Calculation Example
+input: 
+basic sal, allowances, deduction, experience
+output:
+gross sal, net sal, bonus 
+
+
 
 
 
